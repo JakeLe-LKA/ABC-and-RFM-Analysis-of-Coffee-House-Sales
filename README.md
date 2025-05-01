@@ -17,15 +17,6 @@ With a menu of 20+ products and a growing customer base, the shop seeks to under
 
 The database includes 3 tables:
 
-1. **`transaction`** (~150K rows, 19 columns)  
-   Contains detailed transactional data (date, product ID, quantity, price, customer ID, etc.)
-
-2. **`customer`** (3 columns)  
-   Basic customer profile including unique ID, joining date, and demographic information
-
-3. **`product`** (4 columns)  
-   Product ID, product name, category, and price
-
 ![database_structure](graphs/database_structure.drawio.png)
 
 ---
